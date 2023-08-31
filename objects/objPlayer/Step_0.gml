@@ -1,0 +1,3 @@
+scrPlayerMovement()
+scrPlayerJump();
+scrPlayerShoot();
